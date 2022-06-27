@@ -1,0 +1,64 @@
+{
+    "token": "OTg5OTM0MzUzODY4MDA1NDM2.GTaA1T.YKHuIRPMkSgPWbjjsSHPXwZ0Jv5xY-uH922mgc",
+    "licenseKey": "GS5V-35GG-D8HJ-XKQX",
+    "prefix": "/",
+
+    "activity": {
+        "Activity_Type": "WATCHING",
+        "Changing_Status": ["ShootOrDie RP", "ShootOrDie RP"]
+    },
+
+    "settings": {
+        "embedColor": "#00eaff",
+        "credits": "Made by provide#5793",
+        "read-me": "Please don't change the credits, of my bot. I spent a lot of work on it. Thank you."
+    },
+    
+    "applications": {
+        "important_notice": "1.) Please note by making this Application you agree to not lie and be completely honest.\n2.) By making an application, does not guarantee a position on our Team.\n3.) We have the right to deny this application, no questions asked.\n4.) Must be above 15+ to apply.",
+        "application_channel": "https://discord.com/api/webhooks/990723815350878329/TYDsVtc8yuSdH42x3t9xW7mDXsbPg2s2r1dSWM1J-CXRj7GQNratsWsyQ91MA7ZkeVQu",
+        "accept_roleID": ["987567052258684938"],
+        "Question_1": "Discord Name? (Jayy.#9999),(ynmixo#4444)?",
+        "Question_2": "What Is Your IRL Age?",
+        "Question_3": "What is Your Country Of Residence?",
+        "Question_4": "Do you have any previous staff experience? (FiveM or Other) If so, elaborate?",
+        "Question_5": "Why would you like to join the ShootOrDie staff team? (Min 100 Words)?",
+        "Question_6": "What do you believe you could bring to the staff team? (Min 60 Words)?",
+        "Question_7": "Do you know if you abuse anything related to being a staff member you will be stripped?",
+        "Question_8": "Do you know if you ask any person on the staff team to review your application you will be denied?"
+    },
+
+    "tickets": {
+        "value_1": "Support Ticket",
+        "value_1_embedTitle": "What ticket, do you want to open?",
+        "value_1_embedDescription": "*If you would like to create a ticket, please choose any of the following buttons, attached with this message. Abuse of creating tickets will lead to a Ban!*\n\n**>** Development\n**>** Support\n**>** Graphic Designing",
+        "value_1_style": "blurple",
+        "value_1_welcomeTicketTitle": "A new ticket was opened",
+        "value_1_welcomeTicketDescription": "You opened a ticket, lol what you want. This is the Support button.",
+        
+        "value_2": "Ban Appeal Ticket",
+        "value_2_style": "blurple",
+        "value_2_welcomeTicketTitle": "A new ticket was opened",
+        "value_2_welcomeTicketDescription": "You opened a ticket, lol what you want. This is the Ban Appeal button.",
+        
+        "value_3": "Donation Ticket",
+        "value_3_style": "blurple",
+        "value_3_welcomeTicketTitle": "A new ticket was opened",
+        "value_3_welcomeTicketDescription": "You opened a ticket, lol what you want. This is the Donation button.",
+
+        "value_4": "Staff Report Ticket",
+        "value_4_style": "blurple",
+        "value_4_welcomeTicketTitle": "A new ticket was opened",
+        "value_4_welcomeTicketDescription": "You opened a ticket, lol what you want. This is the Staff Report button.",
+
+        "value_1_category": "987567160996008026",
+        "value_2_category": "987567160132010034",
+        "value_3_category": "987567159280558090",
+        "value_4_category": "987567157929971774"
+    },
+    
+    "logging": {
+        "purgeLogging": "https://discord.com/api/webhooks/990725045598953523/YpweM3M0GanrFjTKgHnvsSlVz5Tv1CgARNL-1Pvhb0vByqAtuoh_JVQZlkopzYSZsNv6",
+        "welcomeLogging": "https://discord.com/api/webhooks/990725045598953523/YpweM3M0GanrFjTKgHnvsSlVz5Tv1CgARNL-1Pvhb0vByqAtuoh_JVQZlkopzYSZsNv6"
+    }
+}

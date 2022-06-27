@@ -1,0 +1,22 @@
+{
+  "name": "jayy-v1.0",
+  "version": "1.0.0",
+  "description": "Jayys - Personal Bot | Made by provide#5793",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Provide#5793",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord-buttons": "^4.0.0",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.3",
+    "os": "^0.1.2",
+    "quick.db": "^9.0.4",
+    "request": "^2.88.2"
+  }
+}
